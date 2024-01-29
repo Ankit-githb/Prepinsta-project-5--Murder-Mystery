@@ -1,4 +1,4 @@
-# Prepinsta-project-5--Murder-Mystery
+# Prepinsta-project-5-Murder-Mystery
 SQL Murder Mystery 
 
 Link: https://mystery.knightlab.com/
